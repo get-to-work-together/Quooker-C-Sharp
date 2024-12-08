@@ -1,0 +1,10 @@
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\IntroLab\bin\Debug\IntroLab.exe.config
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\IntroLab\bin\Debug\IntroLab.exe
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\IntroLab\bin\Debug\IntroLab.pdb
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\IntroLab\obj\Debug\IntroLab.csproj.AssemblyReference.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\IntroLab\obj\Debug\IntroLab.Form1.resources
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\IntroLab\obj\Debug\IntroLab.Properties.Resources.resources
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\IntroLab\obj\Debug\IntroLab.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\IntroLab\obj\Debug\IntroLab.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\IntroLab\obj\Debug\IntroLab.exe
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\IntroLab\obj\Debug\IntroLab.pdb

@@ -1,0 +1,10 @@
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Collections\bin\Debug\Collections.exe.config
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Collections\bin\Debug\Collections.exe
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Collections\bin\Debug\Collections.pdb
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Collections\obj\Debug\Collections.Form1.resources
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Collections\obj\Debug\Collections.Properties.Resources.resources
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Collections\obj\Debug\Collections.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Collections\obj\Debug\Collections.exe
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Collections\obj\Debug\Collections.pdb

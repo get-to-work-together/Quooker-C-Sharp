@@ -1,0 +1,14 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\obj\Debug\net8.0\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\obj\Debug\net8.0\GuessingGame.AssemblyInfoInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\obj\Debug\net8.0\GuessingGame.AssemblyInfo.cs
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\obj\Debug\net8.0\GuessingGame.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\bin\Debug\net8.0\GuessingGame.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\bin\Debug\net8.0\GuessingGame.deps.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\bin\Debug\net8.0\GuessingGame.runtimeconfig.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\bin\Debug\net8.0\GuessingGame.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\bin\Debug\net8.0\GuessingGame.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\obj\Debug\net8.0\GuessingGame.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\obj\Debug\net8.0\refint\GuessingGame.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\obj\Debug\net8.0\GuessingGame.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\obj\Debug\net8.0\GuessingGame.genruntimeconfig.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\GuessingGame\obj\Debug\net8.0\ref\GuessingGame.dll

@@ -1,0 +1,11 @@
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Instances\bin\Debug\Instances.exe.config
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Instances\bin\Debug\Instances.exe
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Instances\bin\Debug\Instances.pdb
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Instances\obj\Debug\Instances.csproj.AssemblyReference.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Instances\obj\Debug\Instances.Form1.resources
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Instances\obj\Debug\Instances.frmDialog.resources
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Instances\obj\Debug\Instances.Properties.Resources.resources
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Instances\obj\Debug\Instances.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Instances\obj\Debug\Instances.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Instances\obj\Debug\Instances.exe
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\Instances\obj\Debug\Instances.pdb

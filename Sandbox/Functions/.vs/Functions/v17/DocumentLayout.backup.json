@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Computrain\\C# Programming Fundaments\\CS Programming Fundamentals\\solution\\Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B60243-C914-4E93-BE38-39D47F5781DA}|Functions.csproj|y:\\computrain\\c# programming fundaments\\cs programming fundamentals\\solution\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B60243-C914-4E93-BE38-39D47F5781DA}|Functions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\Computrain\\C# Programming Fundaments\\CS Programming Fundamentals\\solution\\Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "Y:\\Computrain\\C# Programming Fundaments\\CS Programming Fundamentals\\solution\\Functions\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:04:45.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

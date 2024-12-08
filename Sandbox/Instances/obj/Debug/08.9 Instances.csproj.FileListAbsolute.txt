@@ -1,0 +1,11 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\Instances\bin\Debug\Instances.exe.config
+Y:\Computrain\C# Programming Fundaments\Sandbox\Instances\bin\Debug\Instances.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\Instances\bin\Debug\Instances.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\Instances\obj\Debug\08.9 Instances.csproj.AssemblyReference.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Instances\obj\Debug\Instances.Form1.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\Instances\obj\Debug\Instances.frmDialog.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\Instances\obj\Debug\Instances.Properties.Resources.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\Instances\obj\Debug\08.9 Instances.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Instances\obj\Debug\08.9 Instances.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Instances\obj\Debug\Instances.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\Instances\obj\Debug\Instances.pdb

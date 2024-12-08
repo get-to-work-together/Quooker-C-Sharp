@@ -1,0 +1,10 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\Functions\bin\Debug\Functions.exe.config
+Y:\Computrain\C# Programming Fundaments\Sandbox\Functions\bin\Debug\Functions.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\Functions\bin\Debug\Functions.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\Functions\obj\Debug\07.11 Functions.csproj.AssemblyReference.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Functions\obj\Debug\Functions.Form1.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\Functions\obj\Debug\Functions.Properties.Resources.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\Functions\obj\Debug\07.11 Functions.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Functions\obj\Debug\07.11 Functions.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Functions\obj\Debug\Functions.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\Functions\obj\Debug\Functions.pdb

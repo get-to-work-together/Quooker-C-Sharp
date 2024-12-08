@@ -1,0 +1,10 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\Collections\bin\Debug\Collections.exe.config
+Y:\Computrain\C# Programming Fundaments\Sandbox\Collections\bin\Debug\Collections.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\Collections\bin\Debug\Collections.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\Collections\obj\Debug\10.7 Collections.csproj.AssemblyReference.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Collections\obj\Debug\Collections.Form1.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\Collections\obj\Debug\Collections.Properties.Resources.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\Collections\obj\Debug\10.7 Collections.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Collections\obj\Debug\10.7 Collections.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Collections\obj\Debug\Collections.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\Collections\obj\Debug\Collections.pdb

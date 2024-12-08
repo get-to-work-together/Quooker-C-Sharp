@@ -1,0 +1,22 @@
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\NetPad\bin\Debug\NetPad.exe.config
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\NetPad\bin\Debug\NetPad.exe
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\NetPad\bin\Debug\NetPad.pdb
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\NetPad\obj\Debug\NetPad.csproj.AssemblyReference.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\NetPad\obj\Debug\NetPad.frmAbout.resources
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\NetPad\obj\Debug\NetPad.frmNetPad.resources
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\NetPad\obj\Debug\NetPad.Properties.Resources.resources
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\NetPad\obj\Debug\NetPad.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\NetPad\obj\Debug\NetPad.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\NetPad\obj\Debug\NetPad.exe
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\NetPad\obj\Debug\NetPad.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\NetPad\bin\Debug\NetPad.exe.config
+Y:\Computrain\C# Programming Fundaments\Sandbox\NetPad\bin\Debug\NetPad.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\NetPad\bin\Debug\NetPad.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\NetPad\obj\Debug\NetPad.csproj.AssemblyReference.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\NetPad\obj\Debug\NetPad.frmAbout.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\NetPad\obj\Debug\NetPad.frmNetPad.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\NetPad\obj\Debug\NetPad.Properties.Resources.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\NetPad\obj\Debug\NetPad.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\NetPad\obj\Debug\NetPad.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\NetPad\obj\Debug\NetPad.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\NetPad\obj\Debug\NetPad.pdb

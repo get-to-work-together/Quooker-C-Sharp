@@ -1,0 +1,20 @@
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\CharCounter\bin\Debug\CharCounter.exe.config
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\CharCounter\bin\Debug\CharCounter.exe
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\CharCounter\bin\Debug\CharCounter.pdb
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\CharCounter\obj\Debug\CharCounter.csproj.AssemblyReference.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\CharCounter\obj\Debug\CharCounter.Form1.resources
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\CharCounter\obj\Debug\CharCounter.Properties.Resources.resources
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\CharCounter\obj\Debug\CharCounter.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\CharCounter\obj\Debug\CharCounter.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\CharCounter\obj\Debug\CharCounter.exe
+Y:\Computrain\C# Programming Fundaments\CS Programming Fundamentals\solution\CharCounter\obj\Debug\CharCounter.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\bin\Debug\CharCounter.exe.config
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\bin\Debug\CharCounter.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\bin\Debug\CharCounter.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\CharCounter.csproj.AssemblyReference.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\CharCounter.Form1.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\CharCounter.Properties.Resources.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\CharCounter.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\CharCounter.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\CharCounter.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\CharCounter.pdb

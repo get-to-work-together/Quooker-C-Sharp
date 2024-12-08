@@ -1,0 +1,14 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\bin\Debug\net8.0\DemoLINQ.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\bin\Debug\net8.0\DemoLINQ.deps.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\bin\Debug\net8.0\DemoLINQ.runtimeconfig.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\bin\Debug\net8.0\DemoLINQ.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\bin\Debug\net8.0\DemoLINQ.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\obj\Debug\net8.0\DemoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\obj\Debug\net8.0\DemoLINQ.AssemblyInfoInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\obj\Debug\net8.0\DemoLINQ.AssemblyInfo.cs
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\obj\Debug\net8.0\DemoLINQ.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\obj\Debug\net8.0\DemoLINQ.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\obj\Debug\net8.0\refint\DemoLINQ.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\obj\Debug\net8.0\DemoLINQ.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\obj\Debug\net8.0\DemoLINQ.genruntimeconfig.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoLINQ\obj\Debug\net8.0\ref\DemoLINQ.dll
