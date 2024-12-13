@@ -1,0 +1,15 @@
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+Y:\Computrain\C# Programming Fundaments\MySolution\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

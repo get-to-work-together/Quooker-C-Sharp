@@ -1,0 +1,15 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\bin\Debug\net8.0\DemoThreadingConsole2.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\bin\Debug\net8.0\DemoThreadingConsole2.deps.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\bin\Debug\net8.0\DemoThreadingConsole2.runtimeconfig.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\bin\Debug\net8.0\DemoThreadingConsole2.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\bin\Debug\net8.0\DemoThreadingConsole2.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\obj\Debug\net8.0\DemoThreadingConsole2.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\obj\Debug\net8.0\DemoThreadingConsole2.AssemblyInfoInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\obj\Debug\net8.0\DemoThreadingConsole2.AssemblyInfo.cs
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\obj\Debug\net8.0\DemoThreadingConsole2.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\obj\Debug\net8.0\DemoThreadingConsole2.sourcelink.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\obj\Debug\net8.0\DemoThreadingConsole2.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\obj\Debug\net8.0\refint\DemoThreadingConsole2.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\obj\Debug\net8.0\DemoThreadingConsole2.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\obj\Debug\net8.0\DemoThreadingConsole2.genruntimeconfig.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThreadingConsole2\obj\Debug\net8.0\ref\DemoThreadingConsole2.dll

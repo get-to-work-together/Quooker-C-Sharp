@@ -1,0 +1,15 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\bin\Debug\net8.0\DemoInvokeEvent.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\bin\Debug\net8.0\DemoInvokeEvent.deps.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\bin\Debug\net8.0\DemoInvokeEvent.runtimeconfig.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\bin\Debug\net8.0\DemoInvokeEvent.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\bin\Debug\net8.0\DemoInvokeEvent.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\obj\Debug\net8.0\DemoInvokeEvent.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\obj\Debug\net8.0\DemoInvokeEvent.AssemblyInfoInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\obj\Debug\net8.0\DemoInvokeEvent.AssemblyInfo.cs
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\obj\Debug\net8.0\DemoInvokeEvent.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\obj\Debug\net8.0\DemoInvokeEvent.sourcelink.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\obj\Debug\net8.0\DemoInvokeEvent.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\obj\Debug\net8.0\refint\DemoInvokeEvent.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\obj\Debug\net8.0\DemoInvokeEvent.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\obj\Debug\net8.0\DemoInvokeEvent.genruntimeconfig.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoInvokeEvent\obj\Debug\net8.0\ref\DemoInvokeEvent.dll

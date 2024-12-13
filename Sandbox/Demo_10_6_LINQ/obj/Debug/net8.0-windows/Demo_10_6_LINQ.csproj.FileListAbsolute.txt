@@ -1,0 +1,17 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\bin\Debug\net8.0-windows\Demo_10_6_LINQ.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\bin\Debug\net8.0-windows\Demo_10_6_LINQ.deps.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\bin\Debug\net8.0-windows\Demo_10_6_LINQ.runtimeconfig.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\bin\Debug\net8.0-windows\Demo_10_6_LINQ.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\bin\Debug\net8.0-windows\Demo_10_6_LINQ.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\obj\Debug\net8.0-windows\Demo_10_6_LINQ.Form1.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\obj\Debug\net8.0-windows\Demo_10_6_LINQ.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\obj\Debug\net8.0-windows\Demo_10_6_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\obj\Debug\net8.0-windows\Demo_10_6_LINQ.AssemblyInfoInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\obj\Debug\net8.0-windows\Demo_10_6_LINQ.AssemblyInfo.cs
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\obj\Debug\net8.0-windows\Demo_10_6_LINQ.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\obj\Debug\net8.0-windows\Demo_10_6_LINQ.sourcelink.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\obj\Debug\net8.0-windows\Demo_10_6_LINQ.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\obj\Debug\net8.0-windows\refint\Demo_10_6_LINQ.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\obj\Debug\net8.0-windows\Demo_10_6_LINQ.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\obj\Debug\net8.0-windows\Demo_10_6_LINQ.genruntimeconfig.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Demo_10_6_LINQ\obj\Debug\net8.0-windows\ref\Demo_10_6_LINQ.dll

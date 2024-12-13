@@ -1,0 +1,10 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\Watch\bin\Debug\Watch.exe.config
+Y:\Computrain\C# Programming Fundaments\Sandbox\Watch\bin\Debug\Watch.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\Watch\bin\Debug\Watch.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\Watch\obj\Debug\04.4 Watch.csproj.AssemblyReference.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Watch\obj\Debug\Watch.frmWatch.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\Watch\obj\Debug\Watch.Properties.Resources.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\Watch\obj\Debug\04.4 Watch.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Watch\obj\Debug\04.4 Watch.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Watch\obj\Debug\Watch.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\Watch\obj\Debug\Watch.pdb

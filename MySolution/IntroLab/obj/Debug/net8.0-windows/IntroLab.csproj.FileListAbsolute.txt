@@ -1,0 +1,17 @@
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\bin\Debug\net8.0-windows\IntroLab.exe
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\bin\Debug\net8.0-windows\IntroLab.deps.json
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\bin\Debug\net8.0-windows\IntroLab.runtimeconfig.json
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\bin\Debug\net8.0-windows\IntroLab.dll
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\bin\Debug\net8.0-windows\IntroLab.pdb
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\obj\Debug\net8.0-windows\IntroLab.Form1.resources
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\obj\Debug\net8.0-windows\IntroLab.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\obj\Debug\net8.0-windows\IntroLab.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\obj\Debug\net8.0-windows\IntroLab.AssemblyInfoInputs.cache
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\obj\Debug\net8.0-windows\IntroLab.AssemblyInfo.cs
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\obj\Debug\net8.0-windows\IntroLab.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\obj\Debug\net8.0-windows\IntroLab.sourcelink.json
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\obj\Debug\net8.0-windows\IntroLab.dll
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\obj\Debug\net8.0-windows\refint\IntroLab.dll
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\obj\Debug\net8.0-windows\IntroLab.pdb
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\obj\Debug\net8.0-windows\IntroLab.genruntimeconfig.cache
+Y:\Computrain\C# Programming Fundaments\MySolution\IntroLab\obj\Debug\net8.0-windows\ref\IntroLab.dll

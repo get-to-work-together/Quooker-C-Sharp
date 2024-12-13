@@ -1,0 +1,10 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\bin\Debug\CharCounter.exe.config
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\bin\Debug\CharCounter.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\bin\Debug\CharCounter.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\09.5 CharCounter.csproj.AssemblyReference.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\CharCounter.Form1.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\CharCounter.Properties.Resources.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\09.5 CharCounter.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\09.5 CharCounter.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\CharCounter.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\CharCounter\obj\Debug\CharCounter.pdb

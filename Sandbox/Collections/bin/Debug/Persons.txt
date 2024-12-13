@@ -1,0 +1,5 @@
+Albert:Einstein:Male
+Guido:van Rossum:Male
+Peter:Anema:Male
+Pietje:Puk:Male
+Jan:Jansen:Male

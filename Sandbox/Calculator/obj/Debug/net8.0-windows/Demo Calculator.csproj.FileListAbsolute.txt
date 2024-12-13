@@ -1,0 +1,17 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\bin\Debug\net8.0-windows\Demo Calculator.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\bin\Debug\net8.0-windows\Demo Calculator.deps.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\bin\Debug\net8.0-windows\Demo Calculator.runtimeconfig.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\bin\Debug\net8.0-windows\Demo Calculator.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\bin\Debug\net8.0-windows\Demo Calculator.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\obj\Debug\net8.0-windows\Calculator.CalculatorForm.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\obj\Debug\net8.0-windows\Demo Calculator.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\obj\Debug\net8.0-windows\Demo Calculator.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\obj\Debug\net8.0-windows\Demo Calculator.AssemblyInfoInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\obj\Debug\net8.0-windows\Demo Calculator.AssemblyInfo.cs
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\obj\Debug\net8.0-windows\Demo Calculator.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\obj\Debug\net8.0-windows\Demo Calculator.sourcelink.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\obj\Debug\net8.0-windows\Demo Calculator.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\obj\Debug\net8.0-windows\refint\Demo Calculator.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\obj\Debug\net8.0-windows\Demo Calculator.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\obj\Debug\net8.0-windows\Demo Calculator.genruntimeconfig.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Calculator\obj\Debug\net8.0-windows\ref\Demo Calculator.dll

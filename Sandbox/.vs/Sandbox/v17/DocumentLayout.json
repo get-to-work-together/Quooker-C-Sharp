@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "Y:\\Computrain\\C# Programming Fundaments\\Sandbox\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D73905E0-3C37-436A-8E91-FA310E4E76E6}|DemoReadApi\\DemoReadApi.csproj|y:\\computrain\\c# programming fundaments\\sandbox\\demoreadapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73905E0-3C37-436A-8E91-FA310E4E76E6}|DemoReadApi\\DemoReadApi.csproj|solutionrelative:demoreadapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\Computrain\\C# Programming Fundaments\\Sandbox\\DemoReadApi\\Program.cs",
+              "RelativeDocumentMoniker": "DemoReadApi\\Program.cs",
+              "ToolTip": "Y:\\Computrain\\C# Programming Fundaments\\Sandbox\\DemoReadApi\\Program.cs",
+              "RelativeToolTip": "DemoReadApi\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:26:55.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

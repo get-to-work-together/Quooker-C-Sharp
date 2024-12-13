@@ -1,0 +1,17 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\bin\Debug\net8.0-windows\Blinker.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\bin\Debug\net8.0-windows\Blinker.deps.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\bin\Debug\net8.0-windows\Blinker.runtimeconfig.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\bin\Debug\net8.0-windows\Blinker.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\bin\Debug\net8.0-windows\Blinker.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\obj\Debug\net8.0-windows\Blinker.Form1.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\obj\Debug\net8.0-windows\Blinker.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\obj\Debug\net8.0-windows\Blinker.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\obj\Debug\net8.0-windows\Blinker.AssemblyInfoInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\obj\Debug\net8.0-windows\Blinker.AssemblyInfo.cs
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\obj\Debug\net8.0-windows\Blinker.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\obj\Debug\net8.0-windows\Blinker.sourcelink.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\obj\Debug\net8.0-windows\Blinker.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\obj\Debug\net8.0-windows\refint\Blinker.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\obj\Debug\net8.0-windows\Blinker.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\obj\Debug\net8.0-windows\Blinker.genruntimeconfig.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\Blinker\obj\Debug\net8.0-windows\ref\Blinker.dll

@@ -1,0 +1,17 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\bin\Debug\net8.0-windows\LedDriver.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\bin\Debug\net8.0-windows\LedDriver.deps.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\bin\Debug\net8.0-windows\LedDriver.runtimeconfig.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\bin\Debug\net8.0-windows\LedDriver.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\bin\Debug\net8.0-windows\LedDriver.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\obj\Debug\net8.0-windows\LedDriver.Form1.resources
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\obj\Debug\net8.0-windows\LedDriver.csproj.GenerateResource.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\obj\Debug\net8.0-windows\LedDriver.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\obj\Debug\net8.0-windows\LedDriver.AssemblyInfoInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\obj\Debug\net8.0-windows\LedDriver.AssemblyInfo.cs
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\obj\Debug\net8.0-windows\LedDriver.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\obj\Debug\net8.0-windows\LedDriver.sourcelink.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\obj\Debug\net8.0-windows\LedDriver.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\obj\Debug\net8.0-windows\refint\LedDriver.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\obj\Debug\net8.0-windows\LedDriver.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\obj\Debug\net8.0-windows\LedDriver.genruntimeconfig.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\LedDriver\obj\Debug\net8.0-windows\ref\LedDriver.dll

@@ -1,0 +1,15 @@
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\bin\Debug\net8.0\DemoThrow.exe
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\bin\Debug\net8.0\DemoThrow.deps.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\bin\Debug\net8.0\DemoThrow.runtimeconfig.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\bin\Debug\net8.0\DemoThrow.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\bin\Debug\net8.0\DemoThrow.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\obj\Debug\net8.0\DemoThrow.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\obj\Debug\net8.0\DemoThrow.AssemblyInfoInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\obj\Debug\net8.0\DemoThrow.AssemblyInfo.cs
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\obj\Debug\net8.0\DemoThrow.csproj.CoreCompileInputs.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\obj\Debug\net8.0\DemoThrow.sourcelink.json
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\obj\Debug\net8.0\DemoThrow.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\obj\Debug\net8.0\refint\DemoThrow.dll
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\obj\Debug\net8.0\DemoThrow.pdb
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\obj\Debug\net8.0\DemoThrow.genruntimeconfig.cache
+Y:\Computrain\C# Programming Fundaments\Sandbox\DemoThrow\obj\Debug\net8.0\ref\DemoThrow.dll
